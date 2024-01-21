@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![github-header-image(1)](https://github.com/KristinaPotapenko/KristinaPotapenko/assets/github-header-image.png)
+![Header](./github-header-image.png)
 
 # 💫 About Me:
 🔭 I am currently developing a website<br>💬 Ask me about Frontend Development<br>🌱 I am currently studying at university and continue to study Frontend in depth<br>📬 How to contact me: potapenkokristina10@gmail.com<br>⚡ Interesting fact: I have a dog, and he often likes to program with me
