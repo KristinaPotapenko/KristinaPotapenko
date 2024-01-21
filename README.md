@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![github-header-image(1)](https://github.com/youngling-coder/youngling-coder/assets/142408709/5dfc4d09-2521-4d03-a30e-1e8443da1f71)
+
 # 💫 About Me:
 🔭 I am currently developing a website<br>💬 Ask me about Frontend Development<br>🌱 I am currently studying at university and continue to study Frontend in depth<br>📬 How to contact me: potapenkokristina10@gmail.com<br>⚡ Interesting fact: I have a dog, and he often likes to program with me
 
