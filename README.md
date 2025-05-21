@@ -7,7 +7,7 @@
 
 ## 🌐 Socials:
 
-[![telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kristinaa_potapenko)
+[![telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kristina_potapenko)
 [![email](https://img.shields.io/badge/E--mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:potapenkokristina10@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_k.vladimirovnaa_?igsh=MTBrY3huNDAydzFjYQ%3D%3D&utm_source=qr)
 [![linkedin](https://img.shields.io/badge/linkedin-%230E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristina-potapenko-396876249/)
